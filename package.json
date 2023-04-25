@@ -9,6 +9,7 @@
   },
   "scripts": {
     "dev": "vite",
+    "sass": "sass src/styles/main.scss src/styles/main.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
